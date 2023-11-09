@@ -1,17 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov  5 13:42:21 2023
-
 @author: adriannabarrera
 """
-
-import networkx as nx
-#import matplotlin.pyplot as plt
-import sys
 import time
 import heapq
-#import resource
 from itertools import groupby
 from collections import defaultdict
 
